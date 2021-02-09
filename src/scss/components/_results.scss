@@ -1,0 +1,22 @@
+table {
+  th {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 1em;
+  }
+  tbody {
+    tr {
+      td {
+        vertical-align: middle;
+        text-align: center;
+        img {
+          height: 200px;
+          width: auto;
+        }
+        max-width: 500px;
+        padding: 0.5em 2em;
+        height: 200px;
+      }
+    }
+  }
+}

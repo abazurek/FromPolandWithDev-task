@@ -1,0 +1,30 @@
+.form-box {
+  > p {
+    margin: 2em auto;
+  }
+}
+
+form {
+  display: flex;
+  align-items: center;
+  label {
+    display: flex;
+    align-items: center;
+    p {
+      margin-right: 1em;
+    }
+    input {
+      outline: none;
+      line-height: 2em;
+      border-radius: 6px;
+      width: 200px;
+      border: 1px solid $border-color;
+
+    }
+  }
+  button {
+    padding: 0.3em 1em ;
+    border-radius:5px;
+    margin-left: 1em;
+  }
+}
