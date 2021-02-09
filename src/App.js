@@ -8,7 +8,7 @@ function App() {
   const [pageNum, setPageNum] = useState(1);
 
   function fetchData(title) {
-    fetch(`http://www.omdbapi.com/?apikey=ade9d7c0&s=${title}&page=${pageNum}`)
+    fetch(`https://www.omdbapi.com/?apikey=ade9d7c0&s=${title}&page=${pageNum}`)
       .then((response) => response.json())
       .then((json) => setData(json))
       .catch((error) => console.log(error));
