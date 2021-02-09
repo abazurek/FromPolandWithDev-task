@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FromPolandWithDev-task/static/css/main.f09db1ce.chunk.css",
+    "main.js": "/FromPolandWithDev-task/static/js/main.c2066161.chunk.js",
+    "main.js.map": "/FromPolandWithDev-task/static/js/main.c2066161.chunk.js.map",
+    "runtime-main.js": "/FromPolandWithDev-task/static/js/runtime-main.1b153cc6.js",
+    "runtime-main.js.map": "/FromPolandWithDev-task/static/js/runtime-main.1b153cc6.js.map",
+    "static/css/2.0978f8b3.chunk.css": "/FromPolandWithDev-task/static/css/2.0978f8b3.chunk.css",
+    "static/js/2.967b3071.chunk.js": "/FromPolandWithDev-task/static/js/2.967b3071.chunk.js",
+    "static/js/2.967b3071.chunk.js.map": "/FromPolandWithDev-task/static/js/2.967b3071.chunk.js.map",
+    "static/js/3.b9f203f6.chunk.js": "/FromPolandWithDev-task/static/js/3.b9f203f6.chunk.js",
+    "static/js/3.b9f203f6.chunk.js.map": "/FromPolandWithDev-task/static/js/3.b9f203f6.chunk.js.map",
+    "index.html": "/FromPolandWithDev-task/index.html",
+    "static/css/2.0978f8b3.chunk.css.map": "/FromPolandWithDev-task/static/css/2.0978f8b3.chunk.css.map",
+    "static/css/main.f09db1ce.chunk.css.map": "/FromPolandWithDev-task/static/css/main.f09db1ce.chunk.css.map",
+    "static/js/2.967b3071.chunk.js.LICENSE.txt": "/FromPolandWithDev-task/static/js/2.967b3071.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b153cc6.js",
+    "static/css/2.0978f8b3.chunk.css",
+    "static/js/2.967b3071.chunk.js",
+    "static/css/main.f09db1ce.chunk.css",
+    "static/js/main.c2066161.chunk.js"
+  ]
+}
